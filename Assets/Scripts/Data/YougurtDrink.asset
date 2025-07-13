@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef631e68bfe6a448f3a828d6e6082c, type: 3}
+  m_Name: YougurtDrink
+  m_EditorClassIdentifier: 
+  productName: YougurtDrink
+  category: 1
+  icon: {fileID: 21300000, guid: 864e18f746f74c347b411bcb8a69d426, type: 3}
+  modelPrefab: {fileID: 5253007571474415315, guid: 7b56e16c2d4ee02489b37f6b0f390609, type: 3}

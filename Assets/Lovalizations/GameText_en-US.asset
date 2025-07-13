@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameText_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: b5709f6e9b0a591408bf90770e52282a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 229661585408
+    m_Localized: No product selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5717707042816
+    m_Localized: No places available
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6662234943488
+    m_Localized: Submit Placement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8850021658624
+    m_Localized: You Win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8933333118976
+    m_Localized: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9135376936960
+    m_Localized: Restart Game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
